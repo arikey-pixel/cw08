@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arikey-pixel.github.io/cw08/static/css/main.b1d7ec7b.css",
-    "main.js": "/arikey-pixel.github.io/cw08/static/js/main.70dc17d4.js",
-    "static/js/787.d4aba7ab.chunk.js": "/arikey-pixel.github.io/cw08/static/js/787.d4aba7ab.chunk.js",
-    "index.html": "/arikey-pixel.github.io/cw08/index.html",
-    "main.b1d7ec7b.css.map": "/arikey-pixel.github.io/cw08/static/css/main.b1d7ec7b.css.map",
-    "main.70dc17d4.js.map": "/arikey-pixel.github.io/cw08/static/js/main.70dc17d4.js.map",
-    "787.d4aba7ab.chunk.js.map": "/arikey-pixel.github.io/cw08/static/js/787.d4aba7ab.chunk.js.map"
+    "main.css": "/cw08/static/css/main.b1d7ec7b.css",
+    "main.js": "/cw08/static/js/main.7eb085ce.js",
+    "static/js/787.d4aba7ab.chunk.js": "/cw08/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/cw08/index.html",
+    "main.b1d7ec7b.css.map": "/cw08/static/css/main.b1d7ec7b.css.map",
+    "main.7eb085ce.js.map": "/cw08/static/js/main.7eb085ce.js.map",
+    "787.d4aba7ab.chunk.js.map": "/cw08/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.70dc17d4.js"
+    "static/js/main.7eb085ce.js"
   ]
 }
