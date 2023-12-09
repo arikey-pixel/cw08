@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.com/arikey-pixel/cw08/static/css/main.b1d7ec7b.css",
+    "main.js": "/github.com/arikey-pixel/cw08/static/js/main.c406673b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/github.com/arikey-pixel/cw08/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/github.com/arikey-pixel/cw08/index.html",
+    "main.b1d7ec7b.css.map": "/github.com/arikey-pixel/cw08/static/css/main.b1d7ec7b.css.map",
+    "main.c406673b.js.map": "/github.com/arikey-pixel/cw08/static/js/main.c406673b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/github.com/arikey-pixel/cw08/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.c406673b.js"
+  ]
+}
